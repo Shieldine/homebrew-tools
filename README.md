@@ -1,4 +1,4 @@
-# Homebrew Tap for my Tools
+# Homebrew Tap
 This repository contains homebrew formulae for my current and future tools
 
 ## Installation
